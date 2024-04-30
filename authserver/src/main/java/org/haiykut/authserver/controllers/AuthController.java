@@ -1,7 +1,6 @@
 package org.haiykut.authserver.controllers;
 
 import lombok.RequiredArgsConstructor;
-import org.haiykut.authserver.core.utils.exceptions.types.AuthenticationException;
 import org.haiykut.authserver.services.abstracts.AuthService;
 import org.haiykut.authserver.services.dtos.requests.LoginRequest;
 import org.haiykut.authserver.services.dtos.requests.RegisterRequest;
